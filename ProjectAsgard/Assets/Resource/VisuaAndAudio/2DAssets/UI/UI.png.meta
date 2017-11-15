@@ -1,11 +1,12 @@
 fileFormatVersion: 2
 guid: 9c42bd71eb17e3b42abc7bf11c4aef89
-timeCreated: 1510729607
+timeCreated: 1510730572
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: BG_Badge
     21300002: BG_Black
+    21300004: LabelBG_DarkBrown
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -93,7 +94,7 @@ TextureImporter:
         width: 121
         height: 127
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 27, y: 27, z: 27, w: 27}
       outline: []
       physicsShape: []
@@ -107,8 +108,22 @@ TextureImporter:
         width: 121
         height: 127
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 27, y: 27, z: 27, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LabelBG_DarkBrown
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 827
+        width: 371
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 10, y: 10, z: 10, w: 10}
       outline: []
       physicsShape: []
       tessellationDetail: 0
